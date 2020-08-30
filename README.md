@@ -3,7 +3,6 @@
 
 3 x screens ... 
 
-
-![image](imgur.com/a/xIr9W18)
+![image](https://i.imgur.com/Gu0CuDI.png)
 
 
