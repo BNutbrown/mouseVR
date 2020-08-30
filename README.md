@@ -10,13 +10,12 @@ Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in M
 ![image](https://i.imgur.com/koTY4e2.gif)
 
 
-Software requirements:</br></br>
+Software requirements:</br>
 Matlab</br>
 ViRMeN*. (https://pni.princeton.edu/pni-software-tools/virmen)</br></br>
  
 
-Hardware requirements:</br></br>
-
+Hardware requirements:</br>
 Screens</br>
 •	3 x 1024 x 600 HD raspberry pi screens </br>
 •	1 x UBS hub for power with power supply</br>
