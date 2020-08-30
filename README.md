@@ -11,8 +11,7 @@ Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in M
 
 ![image](https://i.imgur.com/koTY4e2.gif)
 
-![image](https://i.imgur.com/7uilQJz.gif)
-
+![image](https://i.imgur.com/3JtB4wk.gif)
 
 
 Software requirements:</br></br>
