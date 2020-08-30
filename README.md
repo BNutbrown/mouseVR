@@ -1,6 +1,6 @@
 # mouseVR
 2D virtual reality software for running rodent neuroscience experiments. 
-
+</br></br>
 
 Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in Michael Hausser's laboratory (Neural computation lab, UCL)
 
@@ -10,31 +10,31 @@ Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in M
 ![image](https://i.imgur.com/koTY4e2.gif)
 
 
-Software requirements:
-Matlab
-ViRMeN*. (https://pni.princeton.edu/pni-software-tools/virmen)
+Software requirements:</br></br>
+Matlab</br>
+ViRMeN*. (https://pni.princeton.edu/pni-software-tools/virmen)</br></br>
  
 
-Hardware requirements:
+Hardware requirements:</br></br>
 
-Screens
-•	3 x 1024 x 600 HD raspberry pi screens
-•	1 x UBS hub for power with power supply
-•	1 x HDMI/DisplayPort hub
-•	3 x HDMI cables 
-•	Custom removable screen holder on a magnetic base 
+Screens</br>
+•	3 x 1024 x 600 HD raspberry pi screens </br>
+•	1 x UBS hub for power with power supply</br>
+•	1 x HDMI/DisplayPort hub</br>
+•	3 x HDMI cables </br>
+•	Custom removable screen holder on a magnetic base </br>
 
-Movement 
-•	1 x Polystyrene ball 
-•	1 x Kubler rotary encoder (1024)
-•	 DAQ I/O device 
+Movement </br>
+•	1 x Polystyrene ball </br>
+•	1 x Kubler rotary encoder (1024)</br>
+•	 DAQ I/O device </br>
 
-Reward delivery & detection 
-•	 Custom lick port
-•	 circuit for reward delivery 
-•	 Solenoid valve
-•	 DAQ I/O device 
-
+Reward delivery & detection </br>
+•	 Custom lick port</br>
+•	 circuit for reward delivery </br>
+•	 Solenoid valve</br>
+•	 DAQ I/O device </br>
+</br></br></br>
 
 * Aronov, D. and Tank, D. W. (2014) Engagement of Neural Circuits Underlying 2D Spatial Navigation in a Rodent Virtual Reality System. Neuron 84(2): 442-56.
 
