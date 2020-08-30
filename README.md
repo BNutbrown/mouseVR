@@ -1,7 +1,7 @@
 # mouseVR
 2D virtual reality 
 
-Written by: Lloyd Russell (@llerussell) and Beckie Nutbrown (@beckienutbrown) in Michael Hausser's laboratory (Neural computation lab- UCL)
+Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in Michael Hausser's laboratory (Neural computation lab, UCL)
 
 
 ![image](https://i.imgur.com/Gu0CuDI.png)
