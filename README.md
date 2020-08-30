@@ -1,5 +1,7 @@
 # mouseVR
-2D virtual reality software for running rodent neuroscience experiments. 
+2D virtual reality software for running rodent neuroscience experiments. </br>
+
+Built with ViRMeN which provides an inbuilt graphics engine to perform 3D rendering of virtual environments that we adapted for computer monitors and a Matlab toolbox for programming experimental logic and manipulating environments in real time
 </br></br>
 
 Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in Michael Hausser's laboratory (Neural computation lab, UCL)
@@ -9,10 +11,13 @@ Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in M
 
 ![image](https://i.imgur.com/koTY4e2.gif)
 
+![image](https://i.imgur.com/7uilQJz.gif)
+
+
 
 Software requirements:</br></br>
 Matlab</br>
-ViRMeN*. (https://pni.princeton.edu/pni-software-tools/virmen)</br></br>
+ViRMeN* (https://pni.princeton.edu/pni-software-tools/virmen)</br></br>
  
 
 Hardware requirements:</br></br>
