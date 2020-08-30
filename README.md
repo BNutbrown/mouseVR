@@ -1,7 +1,8 @@
 # mouseVR
 2D virtual reality 
 
-3 x screens ... 
+Written by: Lloyd Russell (@llerussell) and Beckie Nutbrown (@beckienutbrown) in Michael Hausser's laboratory (Neural computation lab- UCL)
+
 
 ![image](https://i.imgur.com/Gu0CuDI.png)
 
@@ -9,3 +10,12 @@
 
 
 
+
+Software 
+This software will generate 
+
+(using software: ViRMeN )
+
+Hardware requirements:
+
+3 screens 
