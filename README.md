@@ -4,7 +4,7 @@
 Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell (@llerussell) in Michael Hausser's laboratory (Neural computation lab, UCL)
 
 
-![image](https://i.imgur.com/Gu0CuDI.png)
+![image](https://i.imgur.com/8oDdlv5.png)
 
 ![image](https://i.imgur.com/koTY4e2.gif)
 
