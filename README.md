@@ -6,7 +6,7 @@ Written by: Lloyd Russell (@llerussell) and Beckie Nutbrown (@beckienutbrown) in
 
 ![image](https://i.imgur.com/Gu0CuDI.png)
 
-![image](https://i.imgur.com/Nbtrz3y.gif)
+![image](https://i.imgur.com/koTY4e2.gif)
 
 
 
