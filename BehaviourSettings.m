@@ -1,0 +1,6 @@
+function [ vr ] = BehaviourSettings( vr )
+%opens/sets variables which will be called as well as the Behaviour data where everything is stored as a log file
+
+vr.pos = [];                     % we want to know where the animal is across all environments; LogBehaviouralData function will account for that...
+vr.AssignedEnvironment = [];     % we want to be the environment the animal is at any given time.
+vr.Behaviour.fidBehaviour = fopen(['Behaviour_' vr.SessionTimeStamp '.data'],'w');%creates the file where the behavioural data is stored (better than updating this into the vr structure)...
