@@ -1,7 +1,7 @@
 # mouseVR
-2D virtual reality software for running rodent neuroscience experiments.
+Virtual reality software for running rodent neuroscience experiments.
 
-Built with ViRMeN which provides an inbuilt graphics engine to perform 3D rendering of virtual environments that we adapted for computer monitors and a Matlab toolbox for programming experimental logic and manipulating environments in real time
+Built with ViRMeN which provides a graphics engine to perform 3D rendering of virtual environments that we adapted for computer monitors and a Matlab toolbox for programming experimental logic and manipulating environments in real time
 
 Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell ([@llerussell](https://github.com/llerussell)) -- Hausser-lab and Barry-lab (UCL)
 
@@ -35,6 +35,33 @@ Written by: Beckie Nutbrown (@beckienutbrown) & Lloyd Russell ([@llerussell](htt
 * Custom circuit for reward delivery </br>
 * Solenoid valve</br>
 * NI DAQ I/O device </br>
+
+
+## Notes
+### Install notes
+* put virmen folder local (e.g C:/Virmen)
+* replace virmenEngine.m with version in customFunctionsVR
+* put transformPerspectiveMultipleScreens.m in local transforms folder
+* put moveWithRotaryEncoderBruker.m in the local movements folder
+* put 5WORLDS.mat and Bruker2_virmen_TCP.m in the local experiments folder
+* add Virmen folder and CustomVRFunctions folder to MATLAB path
+
+run virmen, then go Experiment>Open>5WORLDS.mat
+
+
+### Usage notes
+* runTCPserver.py must be running for matlab to connect and start the session
+* NI daq devices must also be present
+* As we have multiple machines runing the same code, and these machines have different NI devices, we use ComputerNIMappings.cfg file to configure which devices are used on each machine. the file must contain the current computers name and device names!
+
+
+### General
+lick detection as counter channel detecting rising edges. updated at same time as rotary encoder.
+analog outputs to reward and photostim were causing frame drops so offloaded to a sepearte python app - connected via TCP
+
+
+### To do
+rewrite screen transform function as a C/MEX function
 
 
 ## References
